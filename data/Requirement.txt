@@ -1,0 +1,9 @@
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.5.0
+imblearn==0.0
+smote==0.1.1
+xgboost==1.7.3
+flask==2.2.2
+streamlit==1.15.2
+pickle
